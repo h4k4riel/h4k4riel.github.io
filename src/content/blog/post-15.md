@@ -6,8 +6,21 @@ isFeatured: true
 tags:
   - Android
   - Kotlin
-seo:
-  image:
-    src: '/post-1.jpg'
-    alt: A person standing at the window
 --- 
+
+Esto es el contenido del blog
+
+## Cabecera 1
+
+Contenido 1
+
+## Cabecera 2
+
+Contenido 2
+
+```kotlin
+fun main()
+{
+    println("Hello world")
+}
+```
