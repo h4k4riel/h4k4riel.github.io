@@ -1,6 +1,6 @@
 ---
-title: Este es un articulo nuevo creado por nosotros
-excerpt: Aqui tenemos el excerpt del articulo, que vendria a ser el resumen previo a abrirlo.
+title: Este es un articulo nuevo creado por nosotros ahora
+excerpt: Aqui tenemos el excerpt del articulo, que vendria a ser el resumen previo a abrirlo otro.
 publishDate: 'april 4 2025'
 isFeatured: true
 tags:
