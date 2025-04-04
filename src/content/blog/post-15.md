@@ -8,6 +8,6 @@ tags:
   - Kotlin
 seo:
   image:
-    src: '/post-1,jpg'
+    src: '/post-1.jpg'
     alt: A person standing at the window
 --- 
