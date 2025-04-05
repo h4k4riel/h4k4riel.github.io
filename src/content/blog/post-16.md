@@ -1,12 +1,11 @@
 ---
-title: Protege tu Mundo Digital Consejos Esenciales de Ciberseguridad
+title: Protege tu Mundo Digital Consejos Esenciales de Ciberseguridades
 excerpt: Aqui tenemos el excerpt del articulo, que vendria a ser el resumen previo a abrirlo.
 publishDate: 'april 5 2025'
 isFeatured: true
 tags:
   - Android
-   
---- 
+---
 
 Esto es el contenido del blog
 

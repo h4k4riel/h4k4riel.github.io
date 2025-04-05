@@ -1,5 +1,5 @@
 ---
-title: Este es un articulo nuevo creado por nosotros ahora
+title: Este es un articulo nuevo creado por nosotros ahora si
 excerpt: Aqui tenemos el excerpt del articulo, que vendria a ser el resumen previo a abrirlo otro.
 publishDate: 'april 4 2025'
 isFeatured: true
